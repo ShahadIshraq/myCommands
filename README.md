@@ -28,4 +28,14 @@ Restart terminal or simply
 	source ~/.bashrc
 ```
 
+## License
+
+No license whatsoever. Use at your own risk.
+
+## Acknowledgments
+
+* [Google](www.google.com)
+* [UNIX stackexchange](unix.stackexchange.com)
+* [askubuntu](askubuntu.com)
+
 
