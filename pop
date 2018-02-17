@@ -1,0 +1,8 @@
+#!/bin/bash
+server="/opt/lampp/htdocs"
+if [ $1 = 'server' ]; then
+	go="sudo nautilus $server"
+else	
+	go="nautilus $1"
+fi
+exec $go

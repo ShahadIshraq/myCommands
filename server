@@ -1,0 +1,7 @@
+#!/bin/bash
+start='sudo /opt/lampp/xampp start'
+stop='sudo /opt/lampp/xampp stop'
+case "$1" in
+	up) exec $start;;
+	down) exec $stop ;;
+esac
