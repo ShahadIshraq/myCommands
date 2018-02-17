@@ -11,14 +11,14 @@ To use this commands in the terminal you need to add the directory to the PATH v
 .bashrc is in the home directory. so
 
 ```
-sudo gedit ~/.bashrc
+	sudo gedit ~/.bashrc
 ```
 
 ### Add the directory to PATH
 Add the following line at the end of the file
 
 ```
-export PATH=/myCommands:$PATH
+	export PATH=/myCommands:$PATH
 ```
 
 ### Restart your terminal
