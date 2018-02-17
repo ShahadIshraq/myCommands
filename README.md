@@ -1,8 +1,10 @@
 # My custom bash commands
 
 This is a compilation of the bash files I have created and stored in my root so that I can use them on my terminal.<br>
-* The **Creating Launcher** directory has directions on creating custome launcher. Came handy in making a one click launcher for my XAMPP server.<br>
 But for this the folder that holds these files need to be in the path variable. Here is how to do so.
+
+* The **Creating Launcher** directory has directions on creating custome launcher. Came handy in making a one click launcher for my XAMPP server.<br>
+
 
 ## Getting Started
 
